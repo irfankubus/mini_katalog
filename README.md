@@ -6,6 +6,8 @@ Bu proje, Flutter eğitimi kapsamında widget yapısı, sayfa geçişleri, JSON/
 
 ## Ekran Görüntüleri
 
+Görüntüler Android emülatöründe (Medium Phone, Android 17) çalışan uygulamadan alınmıştır.
+
 | Ana Sayfa | Arama | Ürün Detayı | Sepet |
 |---|---|---|---|
 | ![Ana sayfa](screenshots/1-ana-sayfa.png) | ![Arama](screenshots/2-arama.png) | ![Ürün detayı](screenshots/3-urun-detayi.png) | ![Sepet](screenshots/4-sepet.png) |
